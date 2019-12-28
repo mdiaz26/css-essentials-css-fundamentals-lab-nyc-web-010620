@@ -16,6 +16,7 @@ img {
 nav a {
   padding: 0 10px;
   background-color: #bbb;
+  margin: 0 auto;
 }
 
 nav, figcaption {
