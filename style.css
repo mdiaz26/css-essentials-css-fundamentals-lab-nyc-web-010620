@@ -29,12 +29,9 @@ nav, figcaption {
   margin: 0 auto;
 }
 
-#details {
+#details div{
   display: block;
   float: left;
-}
-
-div {
   background-color: #999999;
   text-align: center;
   width: 25%;
