@@ -19,7 +19,7 @@ a {
   background-color: #bbb;
 }
 
-nav {
+nav, figcaption {
   text-align: center;
 }
 
