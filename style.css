@@ -31,7 +31,7 @@ nav, figcaption {
 
 #details div{
   display: block;
-  
+  float: left;
   background-color: #999999;
   text-align: center;
   width: 25%;
